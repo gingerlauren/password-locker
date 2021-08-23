@@ -12,7 +12,7 @@ and accounts on your mobile device, websites and other services.
 
 run
 
-- `cd Password-manager`
+- `cd Password-locker`
 - To run the app, use `python3.8 run.py`
 - To tun Tests, use ` python3.8 -m unittest`
 
