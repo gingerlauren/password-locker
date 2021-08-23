@@ -1,4 +1,4 @@
-# Password Manager
+# Password Locker
 
 ##### A Password manager is essentially an encrypted digital vault that
 
