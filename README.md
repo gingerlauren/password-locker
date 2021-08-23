@@ -10,7 +10,7 @@ and accounts on your mobile device, websites and other services.
 
 ## Installations ##
 
-run
+To Run the program ;
 
 - `cd Password-locker`
 - To run the app, use `python3.8 run.py`
