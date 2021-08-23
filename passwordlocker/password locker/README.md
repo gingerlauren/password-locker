@@ -1,6 +1,6 @@
 # Password Locker
 
-##### A Password manager is essentially an encrypted digital vault that
+##### A Password locker is essentially an encrypted digital vault that
 
 stores secure password login information you use to access apps
 and accounts on your mobile device, websites and other services.
@@ -43,4 +43,4 @@ Install these:
 No Licence issued. modify it at your own cost
 Copyright (c) 2021 **Github App**
 
-Licensed under the [gingerlauren](LICENSE).
+Licensed under the [gingerlauren](LICENSE)
