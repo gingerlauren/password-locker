@@ -6,7 +6,7 @@
 stores secure password login information you use to access apps
 and accounts on your mobile device, websites and other services.
 
-#### By **Ginger Lauren
+#### By **Ginger Lauren ####
 
 ## Installations
 
