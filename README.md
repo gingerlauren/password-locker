@@ -8,7 +8,7 @@ and accounts on your mobile device, websites and other services.
 
 #### By **Ginger Lauren ####
 
-## Installations##
+## Installations ##
 
 run
 
