@@ -36,7 +36,7 @@ Install these:
 ## Support and contact details
 
  GitHub Acc: https://github.com/gingerlauren
- Email: sagide.ginger@gmail.com
+ Email: sagide.ginger@gmail.
 
 ### License
 
